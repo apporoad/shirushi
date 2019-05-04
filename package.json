@@ -1,0 +1,29 @@
+{
+  "name": "shirushi.js",
+  "version": "1.0.0",
+  "description": "shi ru shi",
+  "main": "index.js",
+  "dependencies": {
+    "lisa.sing": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/shirushi.git"
+  },
+  "keywords": [
+    "LiSA"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/shirushi/issues"
+  },
+  "bin": {
+    "shirushi": "./index.js"
+  },
+  "homepage": "https://github.com/apporoad/shirushi#readme"
+}
